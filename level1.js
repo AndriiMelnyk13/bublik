@@ -4,9 +4,6 @@ Game.level1 = function(game){
     let GEM_SIZE = 100;
     let GEM_SPACING = 2;
     let GEM_SIZE_SPACED = GEM_SIZE + GEM_SPACING;
-    let SHADOW_SIZE = 110;
-    let SHADOW_SPACING = 2;
-    let SHADOW_SIZE_SPACED = SHADOW_SIZE + SHADOW_SPACING;
     let BOARD_COLS;
     let BOARD_ROWS;
     let MATCH_MIN = 3;
